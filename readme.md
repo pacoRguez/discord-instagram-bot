@@ -54,6 +54,6 @@ Utiliza el comando `/publicacion` en Discord para crear una nueva publicación d
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio que te gustaría realizar.
 
-## Licencia
+## Soporte y Contacto
 
-[MIT](LICENSE)
+Si quieres contactar conmigo puedes hacerlo a través de Discord enviando una solicitúd de amistad. Mi usuario: paco_rguez
